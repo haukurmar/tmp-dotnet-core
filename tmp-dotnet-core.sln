@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 15.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tmp-dotnet-core", "tmp-dotnet-core.csproj", "{C350490A-CBE0-4CAE-A643-D84E460EC5BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C350490A-CBE0-4CAE-A643-D84E460EC5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C350490A-CBE0-4CAE-A643-D84E460EC5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C350490A-CBE0-4CAE-A643-D84E460EC5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C350490A-CBE0-4CAE-A643-D84E460EC5BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
